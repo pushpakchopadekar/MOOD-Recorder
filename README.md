@@ -34,5 +34,5 @@ Mood Recorder is a web application built using React.js that allows users to tra
 
 Clone the repository:
 
-git clone https://github.com/your-username/mood-recorder.git
+git clone https://github.com/pushpakchopadekar/MOOD-Recorder.git
 
